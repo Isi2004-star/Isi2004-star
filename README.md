@@ -3,12 +3,21 @@
 ### A forward-thinking Computer Science undergraduate with a deep passion for AI, Machine Learning, and Data-Driven Development. I enjoy building intelligent, scalable solutions that bridge the gap between technology and real-world innovation. 🌐🚀
 
 # Areas of Interest:
-              🤖 Machine Learning & Deep Learning
-              👁️ Computer Vision
-              🎨 Generative AI
-              🌌 Geospatial Data Analysis & Remote Sensing
-              🧮 Computational Mathematics & Modeling
-
+<ul>
+  <li>
+    🤖 Machine Learning & Deep Learning
+  </li>
+  <li>
+    👁️ Computer Vision
+  </li>
+  <li>
+    🎨 Generative AI
+  </li>
+  <li>
+    🌌 Geospatial Data Analysis & Remote Sensing
+  </li>
+</ul>
+              
 ## 🖥️ Skills:
 
 ### 🌐 Programming Languages.
